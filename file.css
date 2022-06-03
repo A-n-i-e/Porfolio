@@ -482,7 +482,7 @@
     align-items: center;
 }
 
-.contactme-btn a{
+.contact a{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -498,7 +498,7 @@
     margin-top: 30px;
 }
 
-.contactme-btn a:hover{
+.contact a:hover{
     background-color:#7C99AC;
     border-color:#7C99AC;
 }
